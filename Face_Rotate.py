@@ -1,7 +1,6 @@
 # -------------------- THIS IS USED TO CAPTURE STORE THE PHOTOS TO TRAIN THE FACE RECOGNITION SYSTEMS ------------------
 # ------------SPECIAL ADDITIONS ARE MADE TO SAVE IMAGES ONLY WITH CORRECT ILLUMINATION AND CORRECT TILTED HEADS---------
-# ------------------------------ CREATED BY LAHIRU DINALANKARA - AKA SPIKE ---------------------------------------------
-# ----------------------------------------------------------------------------------------------------------------------
+# -------------------------------------- BY The Strategists AKA TY-:D ----------------------------------------------
 
 import cv2                  # Importing the opencv
 import numpy as np          # Import Numarical Python
