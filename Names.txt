@@ -33,4 +33,4 @@
 33,tanmay
 34,Tanmay
 35,Dhairya
-36,yajan/usr/local/bin/python3 /Users/tanmayverma/Desktop/Conventional-Facial-Recognition-Systems/Face_Capture_With_Rotate.py
+36,yajan
