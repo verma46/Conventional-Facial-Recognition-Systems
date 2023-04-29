@@ -11,6 +11,8 @@ FisherFace = cv2.face.FisherFaceRecognizer_create(2)     # Create FISHER FACE RE
 LBPHFace = cv2.face.LBPHFaceRecognizer_create(1, 1, 7,7) # Create LBPH FACE RECOGNISER
 
 path = 'dataSet'                                        # path to the photos
+# path = 'celebritydataSet'                               # path to the celebrity photos
+
 def getImageWithID (path):
     imagePaths = [os.path.join(path, f) for f in os.listdir(path)]
     FaceList = []

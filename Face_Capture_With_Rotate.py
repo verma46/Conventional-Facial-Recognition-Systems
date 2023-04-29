@@ -16,7 +16,7 @@ ID = NameFind.AddName()
 Count = 0
 cap = cv2.VideoCapture(0)                                                                           # Camera object
 
-while Count < 2001:
+while Count < 100:
     ret, img = cap.read()
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)                                                    # Convert the Camera to graySe
     if np.average(gray) > 110:                                                                      # Testing the brightness of the image
